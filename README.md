@@ -29,8 +29,17 @@ I'm currently studying in my Bachelor of Computer Science (Data Engineering) wit
 <a href="https://github.com/Rain06-ai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain06-ai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## Education
-- UTMJB
-- data eng
+- University Teknologi Malaysia, Johor Bahru (2025 - 2029)
+  - Bachelor Computer Science (Data Engineering) with Honour Degrees.
+ 
+- Pahang Matriculation College, Pahang (2023 - 2024)
+  - Physical Science
+  - CGPA : 3.92
+ 
+- Sekolah Menengah Kebangsaan Sungai Soi (2019 - 2023)
+ - Pure Science
+ - SPM result : 7A, 1B, 1C
+  
 
 ## Involvement
-- Secretary 
+- 
