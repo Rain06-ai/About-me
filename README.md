@@ -42,4 +42,9 @@ I'm currently studying in my Bachelor of Computer Science (Data Engineering) wit
   
 
 ## Involvement
-- 
+- JARVIS Multimedia Unit (UTM)
+- UTMGames Food Unit (UTM)
+- Co-curricular Chairman (Matriculation)
+- Jamboree Gift Unit Volunteer (Matriculation)
+- School Prefect (High School)
+- Asistant Head Student Librarian (Elementary School)
