@@ -37,8 +37,8 @@ I'm currently studying in my Bachelor of Computer Science (Data Engineering) wit
   - CGPA : 3.92
  
 - Sekolah Menengah Kebangsaan Sungai Soi (2019 - 2023)
- - Pure Science
- - SPM result : 7A, 1B, 1C
+  - Pure Science
+  - SPM result : 7A, 1B, 1C
   
 
 ## Involvement
