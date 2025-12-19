@@ -42,6 +42,9 @@ I'm currently studying in my Bachelor of Computer Science (Data Engineering) wit
   
 
 ## Involvement
+- CODE'26 - Multimedia Unit (UTM)
+- Majlis Apresiasi - Food Unit (UTM)
+- Escape Room : Horror Mystery - Multimedia Unit (UTM)
 - JARVIS Multimedia Unit (UTM)
 - UTMGames Food Unit (UTM)
 - Co-curricular Chairman (Matriculation)
